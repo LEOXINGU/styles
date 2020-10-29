@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="fundo.svg"
+   id="svg25"
+   viewBox="0 0 8030.0003 9309.9998"
+   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+   version="1.1"
+   height="93.099998mm"
+   width="80.300003mm"
+   xml:space="preserve"><metadata
+   id="metadata29"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   inkscape:current-layer="svg25"
+   inkscape:window-maximized="0"
+   inkscape:window-y="0"
+   inkscape:window-x="0"
+   inkscape:cy="175.93701"
+   inkscape:cx="151.74803"
+   inkscape:zoom="0.59687149"
+   showgrid="false"
+   id="namedview27"
+   inkscape:window-height="480"
+   inkscape:window-width="876"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0"
+   guidetolerance="10"
+   gridtolerance="10"
+   objecttolerance="10"
+   borderopacity="1"
+   bordercolor="#666666"
+   pagecolor="#ffffff" />
+ <defs
+   id="defs4">
+  <style
+   id="style2"
+   type="text/css">
+   <![CDATA[
+    .fil0 {fill:#F3FFAD}
+    .fil1 {fill:#F7FFBD;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g
+   transform="translate(-6485,-10195)"
+   id="Camada_x0020_1">
+  <metadata
+   id="CorelCorpID_0Corel-Layer" />
+  <g
+   id="_2406264653744">
+   <polygon
+   id="polygon7"
+   points="14501,19504 6485,19504 6485,10195 14501,10195 "
+   class="fil0" />
+   <polygon
+   id="polygon9"
+   points="10500,13324 12500,16413 8500,16413 "
+   class="fil1" />
+   <polygon
+   id="polygon11"
+   points="8489,10225 10489,13313 6489,13313 "
+   class="fil1" />
+   <polygon
+   id="polygon13"
+   points="12511,10225 14511,13313 10511,13313 "
+   class="fil1" />
+   <polygon
+   id="polygon15"
+   points="8489,16413 10489,19502 6489,19502 "
+   class="fil1" />
+   <polygon
+   id="polygon17"
+   points="12498,16416 14498,19505 10498,19505 "
+   class="fil1" />
+   <polygon
+   id="polygon19"
+   points="6485,13314 8485,16403 6485,16403 "
+   class="fil1" />
+   <polygon
+   id="polygon21"
+   points="14515,13324 14515,16413 12515,16413 "
+   class="fil1" />
+  </g>
+ </g>
+</svg>
