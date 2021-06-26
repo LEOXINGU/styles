@@ -4,7 +4,7 @@
     <legendpatchshape name="zigue-zague 1">
      <definition type="1" wkt="MultiLineString ((37.79490566037735988 -26.95301886792452351, 41.56698113207546896 -14.693773584905653, 48.572264150943397 -26.68358490566037133, 57.73301886792452819 -19.13943396226414606))" preserveAspect="1"/>
      </legendpatchshape>
-     <legendpatchshape name="zigue-zague2">
+     <legendpatchshape name="zigue-zague 2">
      <definition type="1" wkt="MultiLineString ((70.26169811320755798 -22.23792452830188182, 74.5726415094339643 -15.90622641509433421, 86.29301886792454468 -27.89603773584905255, 90.87339622641511028 -20.89075471698112452))" preserveAspect="1"/>
      </legendpatchshape>
      <legendpatchshape name="curva 1">
